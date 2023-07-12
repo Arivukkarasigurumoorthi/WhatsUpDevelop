@@ -12,4 +12,6 @@ Whats Up develop
 
 6) Payment
 
-7) Adding Video Call 
+7) Adding Video Call
+
+8) share media 
