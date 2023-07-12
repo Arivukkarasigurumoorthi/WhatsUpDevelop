@@ -15,3 +15,9 @@ Whats Up develop
 7) Adding Video Call
 
 8) share media 
+
+9) Add Location
+
+
+
+
