@@ -11,3 +11,5 @@ Whats Up develop
 5) voice message
 
 6) Payment
+
+7) Adding Video Call 
