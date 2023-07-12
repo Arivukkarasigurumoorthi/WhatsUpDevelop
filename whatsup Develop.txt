@@ -9,3 +9,5 @@ Whats Up develop
 4) calls
 
 5) voice message
+
+6) Payment
